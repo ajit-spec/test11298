@@ -46,3 +46,11 @@ ng serve
 1. Open your browser and navigate to `http://localhost:4200`
 2. The application will display a list of items
 3. You can add, edit, and delete items
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes and commit them
+4. Push your changes to your fork
+5. Create a pull request
